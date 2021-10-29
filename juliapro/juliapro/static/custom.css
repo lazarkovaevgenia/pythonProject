@@ -1,0 +1,66 @@
+body {
+    background-color: #e5e4ed !important;
+
+}
+
+.bg-light {
+    background-color: #707e91 !important
+}
+
+.card-body {
+    background-color: #ded1bf;
+    border-color: #ded1bf;
+}
+
+.style {
+    background-color: #ded1bf;
+    border-color: #ded1bf;
+}
+
+.card.product_card {
+    background-color: #ded1bf;
+    border-color: #ded1bf;
+}
+
+.thead-dark {
+    color: #fff;
+    background-color: #707e91;
+    border-color: #707e91;
+
+}
+
+table del {
+      text-decoration: none;
+}
+
+.about_me {
+    margin-top: 30px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 50px;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+}
+
+.leftimg {
+    float:left; /* Выравнивание по левому краю */
+    margin: 25px 25px 25px 0; /* Отступы вокруг картинки */
+}
+
+.text-4 {
+    color: rgb(10, 77, 125);
+    /* font-family: arial; */
+    font-size: 2em;
+    text-align: center;
+    padding-top: 1%;
+    padding-bottom: 0%;
+}
+
+.insta {
+    width: 35px;
+    height: 35px;
+    float: right;
+    margin: 15px 30px 5px 20px;
+    background: url(./img/insta-image-color5.png) no-repeat center top / cover;
+    transition: 0.5s ease-in-out;
+
+}
